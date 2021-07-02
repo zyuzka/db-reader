@@ -1,0 +1,15 @@
+hupper==1.10.3
+mysql-connector-python==8.0.25
+PasteDeploy==2.1.1
+plaster==1.0
+plaster-pastedeploy==0.7
+protobuf==3.17.3
+psycopg2==2.9.1
+pyramid==2.0
+six==1.16.0
+translationstring==1.4
+venusian==3.0.0
+waitress==2.0.0
+WebOb==1.8.7
+zope.deprecation==4.4.0
+zope.interface==5.4.0
